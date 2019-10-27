@@ -1,6 +1,7 @@
 # Preliminary Files for rev2
 
-Untested! 
+DO NOT USE THIS REVISON. POWERING ALL LEDs FROM THE 3.3V LDO COULD BE PROBLEMATIC!
+USE REV3! 
 
 Changes:
 * Removed Buffer vor data
