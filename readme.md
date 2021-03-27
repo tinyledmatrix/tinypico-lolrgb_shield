@@ -6,7 +6,7 @@
 
 	* [Buy a LOL RGB Shield](https://unexpectedmaker.com/shop/tinypico-shield-lolrgb)
 	* [Buy a TinyPICO](https://unexpectedmaker.com/shop/tinypico-usbc)
-	* 
+	
 * Uses 70 WS2812 LEDs in 151 package
 * easy to use with fastLED
 * @mcauser wrote a  MicroPython library you can find it [here](https://github.com/mcauser/micropython-tinypico-lol-rgb-shield/)
