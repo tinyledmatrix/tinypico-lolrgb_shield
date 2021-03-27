@@ -1,10 +1,10 @@
+[Buy a LOL RGB Shield](https://unexpectedmaker.com/shop/tinypico-shield-lolrgb)
+
 ## 5*14 RGB-LED shield for tinypico esp-32 board
 # General
 * for use with tinypico esp32 board
 	* https://www.tinypico.com/
 	* https://github.com/tinypico 
-
-	* [Buy a LOL RGB Shield](https://unexpectedmaker.com/shop/tinypico-shield-lolrgb)
 	* [Buy a TinyPICO](https://unexpectedmaker.com/shop/tinypico-usbc)
 	
 * Uses 70 WS2812 LEDs in 151 package
