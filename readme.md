@@ -3,8 +3,13 @@
 * for use with tinypico esp32 board
 	* https://www.tinypico.com/
 	* https://github.com/tinypico 
+
+	* [Buy a LOL RGB Shield](https://unexpectedmaker.com/shop/tinypico-shield-lolrgb)
+	* [Buy a TinyPICO](https://unexpectedmaker.com/shop/tinypico-usbc)
+	* 
 * Uses 70 WS2812 LEDs in 151 package
 * easy to use with fastLED
+* @mcauser wrote a  MicroPython library you can find it [here](https://github.com/mcauser/micropython-tinypico-lol-rgb-shield/)
 * integrated level-shifter for data signal 3,3V -> 5V
 * integrated reset button (optional to use or populate) 
 * connection to tinypico: 5V (supply for LEDs), GND, IO4 or IO25, reset (if switch is used)
